@@ -1,4 +1,4 @@
-#Practica en C++
+# Practica en C++
 
 **C++ INTRODUCCION A LA PROGRAMACION ORIENTADA A OBJETOS**
 
