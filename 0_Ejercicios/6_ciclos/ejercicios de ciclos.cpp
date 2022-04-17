@@ -56,6 +56,8 @@ int opc;
         cout<<"7.Suma de los numeros de rangos"<<endl;
         cout<<"8.Serie: 1,20,3,40,5,60,7,80,9,100"<<endl;
         cout<<"9.Serie: 1,-1 hasta n"<<endl;
+        cout<<"10.Cantidad de notas de estudiantes"<<endl;
+        cout<<"11.Elevado n de un numero X"<<endl;
         cout<<"0.salir"<<endl;
         cout<<"seleccione una opcion: ";
         cin>>opc;
@@ -71,6 +73,8 @@ int opc;
         case 7: ciclos_7();break;
         case 8: ciclos_8();break;
         case 9: ciclos_9();break;
+        case 10: ciclos_10();break;
+        case 11: ciclos_11();break;
         case 0: break;
         default:cout<<"opcion incorrecta"<<endl<<endl;
 
@@ -376,11 +380,96 @@ D: 0
 E: 0
 F: 1*/
 void ciclos_10(){
+int n;
+int a=0,b=0,c=0,d=0,e=0,f=0;
+char letra;
+cout<<"\ningrese la cantidad de estudiantes: ";
+cin>>n;
+cout<<"\ningrese la nota del estudiante de la A a la F en mayusculas"<<endl;
 
+for(int x=1;x<=n;x++){
 
+    cout<<"Calificacion del estudiante "<<x<<": ";
+    cin>>letra;
+
+        if(letra=='A'){
+        a++;
+        }
+        if(letra=='B'){
+        b++;
+        }
+        if(letra=='C'){
+        c++;
+        }
+        if(letra=='D'){
+        d++;
+        }
+        if(letra=='E'){
+        e++;
+        }
+        if(letra=='F'){
+        f++;
+        }
 
 }
 
+cout<<"\nLa cantidad de estudiantes que sacaron la misma nota fue."<<endl;
+cout<<"\nA : "<<a<<endl;
+cout<<"B : "<<b<<endl;
+cout<<"C : "<<c<<endl;
+cout<<"D : "<<d<<endl;
+cout<<"E : "<<e<<endl;
+cout<<"F : "<<f<<endl;
+
+
+cout<<endl;
+system("read -p 'Press Enter to continue...' var");
+system("clear");
+}
+
+//11. Calcular el valor de Xn mediante un ciclo (multiplicaciones sucesivas), donde X y n son ingresados por el
+//usuario. Por ejemplo; si X ← 2, n ← 3, el programa muestra en pantalla 8 (2*2*2)
+void ciclos_11(){
+int x;
+int n;
+int a=1;
+int b=0;
+int c=1;
+
+cout<<"\nIngrese valores para calcular x elevado a la n"<<endl;
+cout<<"\nX = ";
+cin>>x;
+cout<<"n = ";
+cin>>n;
+
+int elevado = x;
+do{
+
+    elevado=elevado*x;
+    a++;
+
+}while(a<n);
+
+
+cout<<"\n"<<elevado<<" = (";
+
+while(b<n){
+
+cout<<x;
+
+    if(c<n){
+        cout<<"*";
+    }
+
+c++;
+b++;
+
+}
+cout<<")"<<endl;
+cout<<endl;
+system("read -p 'Press Enter to continue...' var");
+system("clear");
+}
 
 
 
