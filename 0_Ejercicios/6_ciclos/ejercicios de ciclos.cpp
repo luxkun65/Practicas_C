@@ -471,7 +471,14 @@ system("read -p 'Press Enter to continue...' var");
 system("clear");
 }
 
+/*12. Leer n-números, donde n es ingresado por el usuario y posteriormente calcular: la sumatoria de los
+valores leídos, el promedio, cantidad de números pares, cantidad de números impares, cantidad de
+números positivos y cantidad de números negativos.*/
+void ciclos_12(){
 
+
+
+}
 
 int main(){
 menu();
