@@ -1,0 +1,54 @@
+void histograma(){
+    if(vecEstudiantes.size() > 0){
+    Estudiante tmp;
+    cout<<"Histograma de notas\n\n";
+    int rango1 = 0;
+    int rango2 = 0;
+    int rango3 = 0;
+    int rango4 = 0;
+    char *arreglo1;
+    char *arreglo2;
+    char *arreglo3;
+    char *arreglo4;
+    for(int i=0; i<vecEstudiantes.size(); i++){
+
+        tmp=vecEstudiantes[i];
+        if(tmp.getNotas(3)>=0&&tmp.getNotas(3)<=1.9){
+            rango1++;
+        }
+        if(tmp.getNotas(3)>=2.0&&tmp.getNotas(3)<=2.9){
+            rango2++;
+        }
+        if(tmp.getNotas(3)>=3.0&&tmp.getNotas(3)<=3.9){
+            rango3++;
+        }
+        if(tmp.getNotas(3)>=4.0&&tmp.getNotas(3)<=5.0){
+            rango4++;
+        }
+    }
+    arreglo1 = new char(rango1);
+    arreglo2 = new char(rango2);
+    arreglo3 = new char(rango3);
+    arreglo4 = new char(rango4);
+
+    for(int i = 0; i<rango1; i++){
+        arreglo1[i] = '*';
+    }
+    for(int j = 0; j<rango1; j++){
+        arreglo2[j] = '*';
+    }
+    for(int k = 0; k<rango1; k++){
+        arreglo3[k] = '*';
+    }
+    for(int l = 0; l<rango1; l++){
+        arreglo4[l] = '*';
+    }
+    cout<<"Rango de notas 0.0 - 1.9: "<<arreglo1<<endl;
+    cout<<"Rango de notas 2.0 - 2.9: "<<arreglo2<<endl;
+    cout<<"Rango de notas 3.0 - 3.9: "<<arreglo3<<endl;
+    cout<<"Rango de notas 4.0 - 5.0: "<<arreglo4<<endl;
+    }else{
+
+        cout<<"\nNo existen estudiantes en el sistema\n\n";
+    }
+}
