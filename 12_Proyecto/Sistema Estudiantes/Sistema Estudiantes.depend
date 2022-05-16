@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1652733408 source:c:\users\usuario\documents\c++\practicas_c-main\12_proyecto\sistema estudiantes\estudiante.cpp
+	"Estudiante.h"
+	<iostream>
+
+1652732849 c:\users\usuario\documents\c++\practicas_c-main\12_proyecto\sistema estudiantes\estudiante.h
+	<iostream>
+
+1652733285 source:c:\users\usuario\documents\c++\practicas_c-main\12_proyecto\sistema estudiantes\main.cpp
+	<vector>
+	"Estudiante.h"
+	<iostream>
+
