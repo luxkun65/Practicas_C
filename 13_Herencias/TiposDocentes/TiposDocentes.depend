@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1653343528 source:c:\users\usuario\documents\c++\practicas_c-main\13_herencias\tiposdocentes\main.cpp
+	<iostream>
+	"docente.h"
+	"DTC.h"
+	"DHC.h"
+
+1653341946 source:c:\users\usuario\documents\c++\practicas_c-main\13_herencias\tiposdocentes\docente.cpp
+	<iostream>
+	"docente.h"
+
+1653341552 c:\users\usuario\documents\c++\practicas_c-main\13_herencias\tiposdocentes\docente.h
+	<iostream>
+
+1653341552 source:c:\users\usuario\documents\c++\practicas_c-main\13_herencias\tiposdocentes\dtc.cpp
+	"DTC.h"
+	"docente.h"
+	<iostream>
+
+1653339703 c:\users\usuario\documents\c++\practicas_c-main\13_herencias\tiposdocentes\dtc.h
+	"docente.h"
+
+1653343491 source:c:\users\usuario\documents\c++\practicas_c-main\13_herencias\tiposdocentes\dhc.cpp
+	"DHC.h"
+	"docente.h"
+	<iostream>
+
+1653343112 c:\users\usuario\documents\c++\practicas_c-main\13_herencias\tiposdocentes\dhc.h
+	"docente.h"
+	<iostream>
+
