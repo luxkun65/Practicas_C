@@ -1,6 +1,7 @@
 #include "DHC.h"
 #include"docente.h"
 #include<iostream>
+
 using namespace::std;
 
 DHC::DHC()

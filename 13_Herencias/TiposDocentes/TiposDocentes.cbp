@@ -36,8 +36,14 @@
 		</Compiler>
 		<Unit filename="DHC.cpp" />
 		<Unit filename="DHC.h" />
+		<Unit filename="DMT.cpp" />
+		<Unit filename="DMT.h" />
 		<Unit filename="DTC.cpp" />
 		<Unit filename="DTC.h" />
+		<Unit filename="MONITOR.cpp" />
+		<Unit filename="MONITOR.h" />
+		<Unit filename="Monitor.cpp" />
+		<Unit filename="Monitor.h" />
 		<Unit filename="docente.cpp" />
 		<Unit filename="docente.h" />
 		<Unit filename="main.cpp" />

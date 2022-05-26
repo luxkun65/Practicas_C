@@ -2,6 +2,7 @@
 #define DHC_H
 #include"docente.h"
 #include<iostream>
+
 using namespace::std;
 
 class DHC:public docente

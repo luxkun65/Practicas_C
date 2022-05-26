@@ -1,6 +1,7 @@
 #ifndef DOCENTE_H
 #define DOCENTE_H
 #include<iostream>
+
 using namespace::std;
 
 class docente
@@ -9,18 +10,18 @@ class docente
         docente();
         virtual ~docente();
         long numID;
-        string apellido, nombre, profesion;
+        string nombre, apellido, profesion;
         double salarioPagar;
 
         void setNumeroID();
-        void setApellido();
         void setNombre();
+        void setApellido();
         void setProfesion();
         virtual void setSalarioPgar();
 
         long getNumeroID();
-        string getApellido();
         string getNombre();
+        string getApellido();
         string getProfesion();
         double getSalarioPgar();
 

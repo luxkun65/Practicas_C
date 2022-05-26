@@ -5,12 +5,16 @@
 	"DTC.h"
 	"DHC.h"
 
+1653339703 "
+
 1653341946 source:c:\users\usuario\documents\c++\practicas_c-main\13_herencias\tiposdocentes\docente.cpp
 	<iostream>
 	"docente.h"
 
 1653341552 c:\users\usuario\documents\c++\practicas_c-main\13_herencias\tiposdocentes\docente.h
 	<iostream>
+
+1653343112 
 
 1653341552 source:c:\users\usuario\documents\c++\practicas_c-main\13_herencias\tiposdocentes\dtc.cpp
 	"DTC.h"
@@ -26,6 +30,67 @@
 	<iostream>
 
 1653343112 c:\users\usuario\documents\c++\practicas_c-main\13_herencias\tiposdocentes\dhc.h
+	"docente.h"
+	<iostream>
+
+1653584560 source:/home/kali/Documents/C++/Practicas_C /13_Herencias/TiposDocentes/DHC.cpp
+	"DHC.h"
+	"docente.h"
+	<iostream>
+	<stdio.h>
+
+1653588032 /home/kali/Documents/C++/Practicas_C /13_Herencias/TiposDocentes/DHC.h
+	"docente.h"
+	<iostream>
+
+1653588032 /home/kali/Documents/C++/Practicas_C /13_Herencias/TiposDocentes/docente.h
+	<iostream>
+
+1653587957 source:/home/kali/Documents/C++/Practicas_C /13_Herencias/TiposDocentes/docente.cpp
+	<iostream>
+	<stdio.h>
+	"docente.h"
+
+1653584560 source:/home/kali/Documents/C++/Practicas_C /13_Herencias/TiposDocentes/DTC.cpp
+	"DTC.h"
+	"docente.h"
+	<iostream>
+	<stdio.h>
+
+1653588032 /home/kali/Documents/C++/Practicas_C /13_Herencias/TiposDocentes/DTC.h
+	"docente.h"
+	<iostream>
+
+1653587862 source:/home/kali/Documents/C++/Practicas_C /13_Herencias/TiposDocentes/main.cpp
+	<iostream>
+	"docente.h"
+	"DTC.h"
+	"DHC.h"
+	"DMT.h"
+	"MONITOR.h"
+
+1653584560 source:/home/kali/Documents/C++/Practicas_C /13_Herencias/TiposDocentes/DMT.cpp
+	"DMT.h"
+	"DTC.h"
+	<iostream>
+	<stdio.h>
+
+1653588032 /home/kali/Documents/C++/Practicas_C /13_Herencias/TiposDocentes/DMT.h
+	"DTC.h"
+	<iostream>
+
+1653504614 source:/home/kali/Documents/C++/Practicas_C /13_Herencias/TiposDocentes/Monitor.cpp
+	"Monitor.h"
+
+1653504614 /home/kali/Documents/C++/Practicas_C /13_Herencias/TiposDocentes/Monitor.h
+
+1653584560 source:/home/kali/Documents/C++/Practicas_C /13_Herencias/TiposDocentes/MONITOR.cpp
+	"MONITOR.h"
+	"docente.h"
+	<iostream>
+	<stdio.h>
+
+1653583203 /home/kali/Documents/C++/Practicas_C /13_Herencias/TiposDocentes/MONITOR.h
 	"docente.h"
 	<iostream>
 
