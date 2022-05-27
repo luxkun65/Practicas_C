@@ -1,9 +1,7 @@
 #ifndef DTC_H
 #define DTC_H
 #include"docente.h"
-#include<iostream>
 
-using namespace::std;
 
 class DTC: public docente
 {

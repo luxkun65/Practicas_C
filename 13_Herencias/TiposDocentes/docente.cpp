@@ -1,14 +1,13 @@
 #include<iostream>
-#include"docente.h"
+#include "docente.h"
 using namespace::std;
 
 
 docente::docente()
 {
     numID=0;
-    nombre = apellido = profesion="-";
+    apellido = nombre= profesion="-";
     salarioPagar=0.0;
-
 }
 
 docente::~docente()
@@ -22,21 +21,16 @@ void docente::setNumeroID(){
 cout<<"numero de ID:";
 cin>>numID;
 }
-
 void docente::setApellido(){
 fflush(stdin);
 cout<<"apellido: ";
 getline(cin,apellido);
 }
-
 void docente::setNombre(){
 fflush(stdin);
 cout<<"nombre: ";
 getline(cin,nombre);
 }
-
-
-
 void docente::setProfesion(){
 fflush(stdin);
 cout<<"profesion: ";
@@ -49,13 +43,12 @@ void docente::setSalarioPgar(){
 long docente::getNumeroID(){
 return numID;
 }
-string docente::getNombre(){
-return nombre;
-}
 string docente::getApellido(){
 return apellido;
 }
-
+string docente::getNombre(){
+return nombre;
+}
 string docente::getProfesion(){
 return profesion;
 }
