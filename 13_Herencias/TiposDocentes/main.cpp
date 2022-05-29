@@ -54,7 +54,6 @@ void VTmonitor();
 ///Menu principal///
 void menu(){
 
-system("clear");
 system("CLS");
 
 int opc;
@@ -78,7 +77,7 @@ case 0: break;
 default: cout<<"\n\nOpcion incorrecta\n\n";
         }
 
-system("clear");
+
 system("CLS");
 
    }while(opc !=0);
@@ -89,7 +88,6 @@ system("CLS");
 //Ingresar docente//
 void ingresarDocente(){
 
-system("clear");
 system("CLS");
 
 int opc;
@@ -114,9 +112,6 @@ default: cout<<"\n\nOpcion incorrecta\n\n";
         }
 
 system("pause");
-system("read -p 'Press Enter to continue...' var");
-
-system("clear");
 system("CLS");
 
    }while(opc !=0);
@@ -124,7 +119,7 @@ system("CLS");
 
 //consultar por numero de ID//
 void consultaXid(){
-system("clear");
+
 system("CLS");
 
 int opc;
@@ -150,9 +145,6 @@ default: cout<<"\n\nOpcion incorrecta\n\n";
         }
 
 system("pause");
-system("read -p 'Press Enter to continue...' var");
-
-system("clear");
 system("CLS");
 
    }while(opc !=0);
@@ -160,7 +152,6 @@ system("CLS");
 
 //Listado por tipo de docente//
 void listadoTDoc(){
-system("clear");
 system("CLS");
 
 int opc;
@@ -186,9 +177,6 @@ default: cout<<"\n\nOpcion incorrecta\n\n";
         }
 
 system("pause");
-system("read -p 'Press Enter to continue...' var");
-
-system("clear");
 system("CLS");
 
    }while(opc !=0);
@@ -196,7 +184,7 @@ system("CLS");
 
 //Valor a pagar de todos los docentes//
 void valorPagar(){
-system("clear");
+
 system("CLS");
 
 int opc;
@@ -222,9 +210,6 @@ default: cout<<"\n\nOpcion incorrecta\n\n";
         }
 
 system("pause");
-system("read -p 'Press Enter to continue...' var");
-
-system("clear");
 system("CLS");
 
    }while(opc !=0);
@@ -237,7 +222,7 @@ system("CLS");
 ///Ingreso de docentes (manejo de las clases y herencias)///
 void testDTC(){
 
-system("clear");
+
 system("CLS");
 
 DTC dt;
@@ -253,7 +238,6 @@ vecDTC.push_back(dt);
 
 void testDHC(){
 
-system("clear");
 system("CLS");
 
 DHC dh;
@@ -270,7 +254,6 @@ vecDHC.push_back(dh);
 
 void testDMT(){
 
-system("clear");
 system("CLS");
 
 DMT dm;
@@ -286,7 +269,6 @@ vecDMT.push_back(dm);
 
 void testMonitor(){
 
-system("clear");
 system("CLS");
 
 MONITOR mn;
@@ -305,7 +287,6 @@ vecMonitor.push_back(mn);
 ///Funciones de consulta por numeo de ID///
 void dtcXid(){
 
-system("clear");
 system("CLS");
 
 if(vecDTC.size() !=0 ){
@@ -340,7 +321,6 @@ else{
 
 void dhcXid(){
 
-system("clear");
 system("CLS");
 
 if(vecDHC.size() !=0 ){
@@ -375,7 +355,6 @@ else{
 
 void dmtXid(){
 
-system("clear");
 system("CLS");
 
 if(vecDMT.size() !=0 ){
@@ -410,7 +389,6 @@ else{
 
 void monitorXid(){
 
-system("clear");
 system("CLS");
 
 if(vecMonitor.size() !=0 ){
@@ -448,7 +426,6 @@ else{
 ///funciones de lista por tipos de docente///
 void dtcLista(){
 
-system("clear");
 system("CLS");
 
 if(vecDTC.size() !=0 ){
@@ -475,7 +452,6 @@ else{
 
 void dhcLista(){
 
-system("clear");
 system("CLS");
 
 if(vecDHC.size() !=0 ){
@@ -500,7 +476,6 @@ else{
 
 void dmtLista(){
 
-system("clear");
 system("CLS");
 
 if(vecDMT.size() !=0 ){
@@ -524,7 +499,6 @@ else{
 
 void monitorLista(){
 
-system("clear");
 system("CLS");
 
 if(vecMonitor.size() !=0 ){
@@ -551,7 +525,6 @@ else{
 ///funciones de Total valor a pagar por tipos de docente///
 void VTdtc(){
 
-system("clear");
 system("CLS");
 
 if(vecDTC.size() !=0 ){
@@ -574,7 +547,6 @@ else{
 
 void VTdhc(){
 
-system("clear");
 system("CLS");
 
 if(vecDHC.size() !=0 ){
@@ -597,7 +569,6 @@ else{
 
 void VTdmt(){
 
-system("clear");
 system("CLS");
 
 if(vecDMT.size() !=0 ){
@@ -620,7 +591,6 @@ else{
 
 void VTmonitor(){
 
-system("clear");
 system("CLS");
 
 if(vecMonitor.size() !=0 ){
