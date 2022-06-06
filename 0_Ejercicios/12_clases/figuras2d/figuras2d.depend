@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1654535469 source:/home/kali/Documents/C++/Practicas_C /0_Ejercicios/12_clases/figuras2d/main.cpp
+	<iostream>
+	"circulo.h"
+	"cuadrado.h"
+	"rectangulo.h"
+	"paralelogramo.h"
+
+1654534556 source:/home/kali/Documents/C++/Practicas_C /0_Ejercicios/12_clases/figuras2d/figuras2d.cpp
+	"figuras2d.h"
+	<iostream>
+
+1654534507 /home/kali/Documents/C++/Practicas_C /0_Ejercicios/12_clases/figuras2d/figuras2d.h
+	<iostream>
+
+1654534567 source:/home/kali/Documents/C++/Practicas_C /0_Ejercicios/12_clases/figuras2d/circulo.cpp
+	"circulo.h"
+	"figuras2d.h"
+	<math.h>
+	<cmath>
+	<iostream>
+
+1654534507 /home/kali/Documents/C++/Practicas_C /0_Ejercicios/12_clases/figuras2d/circulo.h
+	"figuras2d.h"
+	<iostream>
+
+1654535457 source:/home/kali/Documents/C++/Practicas_C /0_Ejercicios/12_clases/figuras2d/cuadrado.cpp
+	"cuadrado.h"
+	"figuras2d.h"
+	<math.h>
+	<cmath>
+	<iostream>
+
+1654534507 /home/kali/Documents/C++/Practicas_C /0_Ejercicios/12_clases/figuras2d/cuadrado.h
+	"figuras2d.h"
+
+1654535457 source:/home/kali/Documents/C++/Practicas_C /0_Ejercicios/12_clases/figuras2d/paralelogramo.cpp
+	"paralelogramo.h"
+	"rectangulo.h"
+	<math.h>
+	<cmath>
+	<iostream>
+
+1654535457 /home/kali/Documents/C++/Practicas_C /0_Ejercicios/12_clases/figuras2d/paralelogramo.h
+	"rectangulo.h"
+	<iostream>
+
+1654535457 /home/kali/Documents/C++/Practicas_C /0_Ejercicios/12_clases/figuras2d/rectangulo.h
+	"cuadrado.h"
+	<iostream>
+
+1654535475 source:/home/kali/Documents/C++/Practicas_C /0_Ejercicios/12_clases/figuras2d/rectangulo.cpp
+	"rectangulo.h"
+	"cuadrado.h"
+	<math.h>
+	<cmath>
+	<iostream>
+
