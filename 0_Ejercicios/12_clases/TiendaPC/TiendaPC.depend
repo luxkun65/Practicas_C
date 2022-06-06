@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1654491763 source:/home/kali/Documents/C++/Practicas_C /0_Ejercicios/12_clases/TiendaPC/main.cpp
+	<iostream>
+	"PC.h"
+
+1654491396 /home/kali/Documents/C++/Practicas_C /0_Ejercicios/12_clases/TiendaPC/PC.h
+	<iostream>
+
+1654491577 source:/home/kali/Documents/C++/Practicas_C /0_Ejercicios/12_clases/TiendaPC/PC.cpp
+	"PC.h"
+	<iostream>
+
