@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1635814865 source:f:\adrian\ejercicios para casa\composición en c++\concesionario\cliente.cpp
+	<iostream>
+	"Cliente.h"
+
+1635814602 f:\adrian\ejercicios para casa\composición en c++\concesionario\cliente.h
+	<iostream>
+	"Fecha.h"
+
+1635813808 f:\adrian\ejercicios para casa\composición en c++\concesionario\fecha.h
+	<iostream>
+
+1635815074 source:f:\adrian\ejercicios para casa\composición en c++\concesionario\main.cpp
+	<iostream>
+	"Cliente.h"
+	"Vehiculo.h"
+	"Fecha.h"
+
+1635814152 f:\adrian\ejercicios para casa\composición en c++\concesionario\vehiculo.h
+	<iostream>
+	"Fecha.h"
+
+1635814446 source:f:\adrian\ejercicios para casa\composición en c++\concesionario\vehiculo.cpp
+	<iostream>
+	"Vehiculo.h"
+
+1635815085 source:f:\adrian\ejercicios para casa\composición en c++\concesionario\fecha.cpp
+	<iostream>
+	"Fecha.h"
+

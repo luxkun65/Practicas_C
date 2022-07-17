@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="CPU.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="752" topLine="27" />
+		</Cursor>
+	</File>
+	<File name="Gamer.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="12" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="435" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="Servidor.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="15" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="302" topLine="16" />
+		</Cursor>
+	</File>
+	<File name="CPU.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="190" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Programador.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="450" topLine="14" />
+		</Cursor>
+	</File>
+	<File name="Programador.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="354" topLine="8" />
+		</Cursor>
+	</File>
+	<File name="Gamer.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="11" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="320" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="Computador.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="9" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="305" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="Servidor.h" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="334" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="Oficina.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="326" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="Oficina.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="12" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="22" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="238" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="Computador.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="9" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="568" topLine="9" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

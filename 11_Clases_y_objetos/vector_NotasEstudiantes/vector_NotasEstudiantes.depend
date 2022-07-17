@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1635170502 source:f:\adrian\ejercicios para casa\clases y objetos en c++\vector_notasestudiantes\estudiante.cpp
+	<iostream>
+	"Estudiante.h"
+
+1635169314 f:\adrian\ejercicios para casa\clases y objetos en c++\vector_notasestudiantes\estudiante.h
+	<iostream>
+

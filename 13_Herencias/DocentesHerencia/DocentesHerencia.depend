@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1636691030 source:f:\adrian\curso c++\herencia en c++\docentesherencia\dhc.cpp
+	<iostream>
+	"Docente.h"
+	"DHC.h"
+
+1636690016 f:\adrian\curso c++\herencia en c++\docentesherencia\docente.h
+	<iostream>
+
+1636690424 f:\adrian\curso c++\herencia en c++\docentesherencia\dhc.h
+	<iostream>
+	"Docente.h"
+
+1636690165 source:f:\adrian\curso c++\herencia en c++\docentesherencia\docente.cpp
+	<iostream>
+	"Docente.h"
+
+1636690801 source:f:\adrian\curso c++\herencia en c++\docentesherencia\dtc.cpp
+	<iostream>
+	"Docente.h"
+	"DTC.h"
+
+1636690260 f:\adrian\curso c++\herencia en c++\docentesherencia\dtc.h
+	<iostream>
+	"Docente.h"
+

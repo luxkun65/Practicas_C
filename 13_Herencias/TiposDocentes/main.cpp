@@ -11,7 +11,7 @@ using namespace::std;
 //vectores
 
 vector <DHC> vecDHC;
-vector <DTC> vecDTC;
+vector <DTC && DHC> vecDTC;
 vector <DMT> vecDMT;
 vector <MONITOR> vecMonitor;
 

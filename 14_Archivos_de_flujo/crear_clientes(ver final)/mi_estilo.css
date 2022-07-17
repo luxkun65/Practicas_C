@@ -1,0 +1,23 @@
+table {
+  width: 80%;
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid;  
+}
+
+th {
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: Tahoma;
+}
+
+tr.afiliado {
+  background-color:rgb(191, 255, 207);
+}
+
+tr.no_afiliado {
+  background-color:rgb(192, 192, 192);
+}

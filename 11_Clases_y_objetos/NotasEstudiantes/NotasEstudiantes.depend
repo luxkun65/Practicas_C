@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1635170442 source:f:\adrian\ejercicios para casa\clases y objetos en c++\notasestudiantes\main.cpp
+	<iostream>
+	"Estudiante.h"
+
+1635169314 f:\adrian\ejercicios para casa\clases y objetos en c++\notasestudiantes\estudiante.h
+	<iostream>
+
+1635170502 source:f:\adrian\ejercicios para casa\clases y objetos en c++\notasestudiantes\estudiante.cpp
+	<iostream>
+	"Estudiante.h"
+
+1635221862 source:f:\adrian\ejercicios para casa\clases y objetos en c++\notasestudiantes\prueba_array.cpp
+	<iostream>
+	<array>
+	"Estudiante.h"
+

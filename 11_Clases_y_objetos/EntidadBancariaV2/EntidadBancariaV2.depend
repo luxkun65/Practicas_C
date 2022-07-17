@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1635100963 source:f:\adrian\ejercicios para casa\clases y objetos en c++\entidadbancariav2\main.cpp
+	<iostream>
+	"ClienteBancoV2.h"
+
+1635101009 f:\adrian\ejercicios para casa\clases y objetos en c++\entidadbancariav2\clientebancov2.h
+	<iostream>
+
+1635101044 source:f:\adrian\ejercicios para casa\clases y objetos en c++\entidadbancariav2\clientebancov2.cpp
+	<iostream>
+	"ClienteBancoV2.h"
+

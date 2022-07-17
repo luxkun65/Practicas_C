@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1637369624 source:e:\escritorio\tipospc\main.cpp
+	<iostream>
+	"Computador.h"
+	"Oficina.h"
+	"Programador.h"
+	"Gamer.h"
+	"Servidor.h"
+
+1637367468 source:e:\escritorio\tipospc\computador.cpp
+	"Computador.h"
+
+1637366695 e:\escritorio\tipospc\computador.h
+	"CPU.h"
+
+1637366213 e:\escritorio\tipospc\cpu.h
+	<iostream>
+
+1637368233 source:e:\escritorio\tipospc\gamer.cpp
+	"Gamer.h"
+
+1637367984 e:\escritorio\tipospc\gamer.h
+	"Programador.h"
+
+1637367560 e:\escritorio\tipospc\programador.h
+	"Oficina.h"
+
+1637367119 e:\escritorio\tipospc\oficina.h
+	"Computador.h"
+
+1637367762 source:e:\escritorio\tipospc\oficina.cpp
+	"Oficina.h"
+
+1637367870 source:e:\escritorio\tipospc\programador.cpp
+	"Programador.h"
+
+1637368520 source:e:\escritorio\tipospc\servidor.cpp
+	"Servidor.h"
+
+1637368322 e:\escritorio\tipospc\servidor.h
+	"Programador.h"
+
+1637366481 source:e:\escritorio\tipospc\cpu.cpp
+	"CPU.h"
+
+1637301013 e:\escritorio\tipospc\utils.h
+	<iostream>
+
+1637301701 e:\escritorio\tipospc\utilerias.h
+	<iostream>
+
+1637703446 source:e:\documents\curso c++\herencia en c++\tipospc\computador.cpp
+	"Computador.h"
+	"Utilerias.h"
+
+1637366695 e:\documents\curso c++\herencia en c++\tipospc\computador.h
+	"CPU.h"
+
+1637366213 e:\documents\curso c++\herencia en c++\tipospc\cpu.h
+	<iostream>
+
+1637366481 source:e:\documents\curso c++\herencia en c++\tipospc\cpu.cpp
+	"CPU.h"
+
+1637368233 source:e:\documents\curso c++\herencia en c++\tipospc\gamer.cpp
+	"Gamer.h"
+
+1637367984 e:\documents\curso c++\herencia en c++\tipospc\gamer.h
+	"Programador.h"
+
+1637367560 e:\documents\curso c++\herencia en c++\tipospc\programador.h
+	"Oficina.h"
+
+1637367119 e:\documents\curso c++\herencia en c++\tipospc\oficina.h
+	"Computador.h"
+
+1637703304 source:e:\documents\curso c++\herencia en c++\tipospc\main.cpp
+	<iostream>
+	"Computador.h"
+	"Oficina.h"
+	"Programador.h"
+	"Gamer.h"
+	"Servidor.h"
+	"Utilerias.h"
+
+1637368322 e:\documents\curso c++\herencia en c++\tipospc\servidor.h
+	"Programador.h"
+
+1637702800 source:e:\documents\curso c++\herencia en c++\tipospc\oficina.cpp
+	"Oficina.h"
+
+1637367870 source:e:\documents\curso c++\herencia en c++\tipospc\programador.cpp
+	"Programador.h"
+
+1637368520 source:e:\documents\curso c++\herencia en c++\tipospc\servidor.cpp
+	"Servidor.h"
+
+1637703202 source:e:\documents\curso c++\herencia en c++\tipospc\utilerias.cpp
+	<stdio.h>
+	<windows.h>
+	"Utilerias.h"
+
+1637703148 e:\documents\curso c++\herencia en c++\tipospc\utilerias.h
+

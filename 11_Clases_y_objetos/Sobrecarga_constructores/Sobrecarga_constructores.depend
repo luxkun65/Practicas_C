@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1635905351 source:f:\adrian\ejercicios para casa\sobrecarga constructores en c++\sobrecarga_constructores\main.cpp
+	<iostream>
+	"Automovil.h"
+
+1635904779 f:\adrian\ejercicios para casa\sobrecarga constructores en c++\sobrecarga_constructores\automovil.h
+	<iostream>
+
+1635905377 source:f:\adrian\ejercicios para casa\sobrecarga constructores en c++\sobrecarga_constructores\automovil.cpp
+	<iostream>
+	"Automovil.h"
+
+1635905656 source:f:\adrian\univalle-tulua\_ipoo [ago-dic-21]\sesion_12\sobrecarga_constructores\main.cpp
+	<iostream>
+	"Automovil.h"
+
+1636490725 f:\adrian\univalle-tulua\_ipoo [ago-dic-21]\sesion_12\sobrecarga_constructores\automovil.h
+	<iostream>
+

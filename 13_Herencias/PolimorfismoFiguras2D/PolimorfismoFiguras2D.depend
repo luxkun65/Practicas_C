@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1636833872 source:f:\adrian\curso c++\herencia en c++\polimorfismofiguras2d\circulo.cpp
+	<iostream>
+	<cmath>
+	"Circulo.h"
+
+1636833727 f:\adrian\curso c++\herencia en c++\polimorfismofiguras2d\circulo.h
+	"Figuras2D.h"
+
+1636833564 f:\adrian\curso c++\herencia en c++\polimorfismofiguras2d\figuras2d.h
+
+1636834009 source:f:\adrian\curso c++\herencia en c++\polimorfismofiguras2d\cuadrado.cpp
+	<iostream>
+	"Cuadrado.h"
+
+1636833930 f:\adrian\curso c++\herencia en c++\polimorfismofiguras2d\cuadrado.h
+	"Figuras2D.h"
+
+1636833627 source:f:\adrian\curso c++\herencia en c++\polimorfismofiguras2d\figuras2d.cpp
+	"Figuras2D.h"
+
+1636834175 source:f:\adrian\curso c++\herencia en c++\polimorfismofiguras2d\paralelogramo.cpp
+	"Paralelogramo.h"
+
+1636834837 f:\adrian\curso c++\herencia en c++\polimorfismofiguras2d\paralelogramo.h
+	"Rectangulo.h"
+
+1636834085 f:\adrian\curso c++\herencia en c++\polimorfismofiguras2d\rectangulo.h
+	"Cuadrado.h"
+
+1636834154 source:f:\adrian\curso c++\herencia en c++\polimorfismofiguras2d\rectangulo.cpp
+	<iostream>
+	"Rectangulo.h"
+
+1636834762 source:f:\adrian\curso c++\herencia en c++\polimorfismofiguras2d\main.cpp
+	<iostream>
+	"Cuadrado.h"
+	"Rectangulo.h"
+	"Paralelogramo.h"
+	"Circulo.h"
+
